@@ -1,3 +1,11 @@
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Jaehwan!;AI+%26+Software+Developer;Python+%7C+JavaScript+%7C+Flask;Building+My+Own+AI+Projects" alt="Typing SVG" />
+
+</div>
+
+
 # 👋 Hello, I'm Jaehwan!
 
 ### 🚀 AI & Software Developer
