@@ -7,6 +7,8 @@ Python과 AI 개발을 공부하고 있습니다.
 
 ## 🛠 Tech Stack
 
+<img src="https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,git,github" />
+
 - Python
 - HTML / CSS
 - JavaScript
